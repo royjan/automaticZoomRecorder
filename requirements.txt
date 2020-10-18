@@ -1,0 +1,7 @@
+pandas~=1.0.3
+PyAutoGUI~=0.9.50
+opencv-python~=4.3.0.36
+mss~=6.0.0
+numpy~=1.18.2
+PyAudio~=0.2.11
+moviepy~=1.0.3
